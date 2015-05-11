@@ -1,0 +1,42 @@
+.carousel-container {
+	position: relative;
+	width: 1000px;
+	height: 600px;
+	margin: 0 auto;
+	margin-top: 50px;
+
+}
+
+.vp-carousel-img-load {
+	display: none;
+}
+
+.vp-carousel-inner {
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	overflow: hidden;
+}
+
+.vp-carousel-back {
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.vp-carousel-front {
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
